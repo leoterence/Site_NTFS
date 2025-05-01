@@ -1,0 +1,14 @@
+@import 'tailwindcss';
+
+.bgColor{
+    background-color: #050318;
+}
+.cercle{
+    background: #1e3680;
+}
+.scrollbar-hide::-webkit-scrollbar{
+    display: none;
+}
+.scrollbar-hide{
+    scrollbar-width: none;
+}
