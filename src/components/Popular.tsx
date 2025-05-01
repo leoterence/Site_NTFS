@@ -101,7 +101,7 @@ export default function Popular() {
           {
             Sliders.map((img,id)=>{
               return(
-                <SwiperSlide >
+                <SwiperSlide  key={id}>
                    <Slider id={id} img={img}  key={id}/>
                 </SwiperSlide>
               )

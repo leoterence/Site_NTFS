@@ -9,7 +9,7 @@ export default function Hero() {
         <div className="flex flex-col gap-y-5">
               <div className="flex flex-col gap-y-2  items-start ml-2">
                   <h1 className="text-start text-4xl font-semibold md:text-5xl lg:text-6xl">Discover,Collect <br /> and Sell Dope <br /> Art and NFTS</h1>
-                  <p className="text-xs text-start md:text-md">The world's largest digital matketplace for crypto <br /> collections and non fungible tokens (NFTs)</p>
+                  <p className="text-xs text-start md:text-md">The world&appos;s largest digital matketplace for crypto <br /> collections and non fungible tokens (NFTs)</p>
               </div>
               <div className="flex flex-row justify-start gap-x-3 ml-2 items-center">
                   <p className="border border-white/30 px-4 rounded-lg p-1 bg-gradient-to-r from-violet-700 to-sky-600 cursor-pointer hover:text-white/50 active:scale-3d  ">Discover</p>
